@@ -37,5 +37,6 @@ function addDeleteBtn() {
             empty.style.display = "block";
         }
     });
+    
     return deleteBtn;
 }
